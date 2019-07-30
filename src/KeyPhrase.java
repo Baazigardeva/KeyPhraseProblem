@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.HashMap;
-
+/*
+BAAZIGAR
+*/
 public class KeyPhrase {
     public static void main(String[] args) {
         String text = "But this way neither the donkey was comfortable nor the potter was able to take rest. A saint, who happened to be passing by, saw the potter holding on to the donkey’s ears. Then the saint wanted to know what the problem of the potter was. When the potter told the saint what the problem was, the wise saint said, Take the donkey to the place where you tie him everyday. Pretend to tie him using an imaginary rope. I assure you he won’t run away. The potter did what the saint had said";
